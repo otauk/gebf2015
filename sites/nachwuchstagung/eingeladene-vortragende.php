@@ -1,0 +1,305 @@
+<?php $thisPage="nwt_vortragende";?>
+<?php include("../../header.php") ?>
+			<div class="content">
+				<div class="text">
+<h1>Eingeladene Vortragende</h1>
+<a name="eisenmann"></a>
+<p>
+<table>
+	<tr>
+		<td colspan="2" class="bigger">Prof. Dr. Maria Eisenmann</td>
+	</tr>
+	<tr>
+		<td class="w40"><img src="../../img/eisenmann.png" class="w66"/></td>
+		<td>
+Prof. Dr. Maria Eisenmann leitet auf der Nachwuchstagung den Teil „Potential und die Transfermöglichkeiten von Forschungsergebnissen für unterrichtspraktische Zeitschriften – Bereich Philologie“
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<span class="bigger">Zur Person</span>
+				<ul>
+					<li>Professorin für englische Fachdidaktik an der Universität Duisburg-Essen. Studium der Fächer Erziehungswissenschaften, Anglistik/Amerikanistik und Germanistik an der Julius-Maximilians-Universität in Würzburg und in Newcastle upon Tyne/England. Nach der Magisterprüfung sowie dem ersten und zweiten Staatsexamen Unterrichts- und Lehrtätigkeit über mehrere Jahre an bayerischen Gymnasien, in der englischen Fachdidaktik an der Universität Würzburg, an der Pädagogischen Hochschule in Freiburg und an der Friedrich-Alexander-Universität Erlangen-Nürnberg</li>
+					<li>Besondere Erfahrung im Bereich der Literatur- und Mediendidaktik; weitere Forschungsschwerpunkte sind Interkulturelles Lernen sowie Differenzierung im Fremdsprachenunterricht</li>
+				</ul>
+		</td>
+	</tr>
+</table>
+</p>
+
+<p>&nbsp;</p><a name="fey"></a>
+<p>
+<table>
+	<tr>
+		<td colspan="2" class="bigger">Dr. Carl Christian Fey</td>
+	</tr>
+	<tr>
+		<td class="w40"><img src="../../img/fey.png" class="w66"/></td>
+		<td>
+			Dr. Carl Christian Fey hält auf der Nachwuchstagung den Vortrag „Möglichkeiten des Transfers fachwissenschaftlicher und fachdidaktischer Forschung und ihrer Ergebnisse in außerwissenschaftliche relevante Kontexte“.
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<span class="bigger">Zur Person</span>
+				<ul>
+					<li>Dr. Carl-Christian Fey, geb. 1975, ist wissenschaftlicher Mitarbeiter am Lehrstuhl für Schulpädagogik der Universität Augsburg und hat sein Dissertationsprojekt im Rahmen des Forschungsprojekts „Bildungsmedien Online" im Jahr 2014 abgeschlossen</li>
+					<li>Seine wissenschaftlichen Schwerpunkte sind: qualitative und quantitative empirische Bildungsmedienforschung, Metatheoretische Perspektiven auf erziehungswissenschaftliche Forschungsprozesse, Forschung zur Ökonomisierung von Bildung</li>
+				</ul>
+		</td>
+	</tr>
+</table>
+</p>
+<p>&nbsp;</p><a name="glaeser"></a>
+<p>
+<table>
+	<tr>
+		<td colspan="2" class="bigger">Prof. Dr. Michaela Gläser-Zikuda</td>
+	</tr>
+	<tr>
+		<td class="w40"><img src="../../img/glaeser.jpg" class="w66"/></td>
+		<td>
+			Prof. Dr. Michaela Gläser-Zikuda leitet auf der Nachwuchstagung den Teil „Publizieren auf Basis empirisch-qualitativer Forschungsmethoden“ des Publikationsworkshops.
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<span class="bigger">Zur Person</span>
+				<ul>
+					<li>Seit April 2014 Inhaberin des Lehrstuhls für Schulpädagogik an der Friedrich-Alexander Universität Erlangen-Nürnberg. Zuvor sechs Jahre Inhaberin des Lehrstuhls für Schulpädagogik und Didaktik an der Friedrich-Schiller-Universität Jena.</li>
+					<li>2007 Habilitation mit dem Schwerpunkt Empirische Unterrichtsforschung, 2000 Promotion mit einer Arbeit zu Emotionen und Lernstrategien von Schülerinnen, zuvor Lehramts- und Diplomstudium Erziehungswissenschaft an der Päd. Hochschule Ludwigsburg
+					</li>
+					<li>Gutachterin u.a. für diverse nationale und internationale wiss. Zeitschiften, Gründungsmitglied der Special Interest Group „Qualitative and quantitative approaches to learning and instruction“ der European Association of Research on Learning and Instruction (EARLI), Gründungsmitglied der Gesellschaft für Empirische Bildungsforschung (GEBF)
+					</li>
+					<li>Arbeitsschwerpunkte: Lehrerbildung, Schul- und Unterrichtsforschung, pädagogisch-didaktische Interventionsforschung und empirisch-qualitative Forschungsmethoden sowie Mixed Methods.
+					</li>
+
+				</ul>
+		</td>
+	</tr>
+</table>
+</p>
+<p>&nbsp;</p><a name="goldhammer"></a>
+<p>
+<table>
+	<tr>
+		<td colspan="2" class="bigger">Prof. Dr. Frank Goldhammer</td>
+	</tr>
+	<tr>
+		<td class="w40"><img src="../../img/goldhammer.png" class="w66"/></td>
+		<td>
+Prof. Dr. Frank Goldhammer leitet auf der Nachwuchstagung den Methodenworkshop „Einführung in das Statistikprogrammpaket R“.
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<span class="bigger">Zur Person</span>
+				<ul>
+					<li>Studium der Psychologie und Promotion an der Goethe-Universität Frankfurt a. M. </li>
+<li>Professor für Pädagogisch-Psychologische Diagnostik mit dem Schwerpunkt auf technologiebasierten Anwendungen an der Goethe-Universität Frankfurt a.M. und im Zentrum für internationale Bildungsvergleichsstudien (ZIB).</li>
+<li>Leitung des Arbeitsbereichs Technology-Based Assessment (TBA) am Deutschen Institut für Internationale Pädagogische Forschung (DIPF).</li>
+<li>Forschungsinteressen: Technologiebasiertes Testen, Analyse prozessbezogener Verhaltensdaten aus Kompetenzmessungen, Modellierung von Bearbeitungs-geschwindigkeit und deren administrative Kontrolle, Computerbezogene Kompetenzen und motivationale Kontextvariablen.
+</li>
+				</ul>
+		</td>
+	</tr>
+</table>
+</p>
+<p>&nbsp;</p><a name="koeller"></a>
+<p>
+<table>
+	<tr>
+		<td colspan="2" class="bigger">Prof. Dr. Olaf Köller</td>
+	</tr>
+	<tr>
+		<td class="w40"><img src="../../img/koeller.jpg" class="w66"/></td>
+		<td>
+			Prof. Dr. Olaf Köller hält auf der Nachwuchstagung den Eröffnungsvortrag
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<span class="bigger">Zur Person</span>
+				<ul>
+					<li>Prof. Dr. Olaf Köller, geb. 1963, ist seit 2009 Leiter der Abteilung Erziehungswissenschaft und Pädagogisch-Psychologische Methodenlehre im Leibniz-Institut für die Pädagogik der Naturwissenschaften und Mathematik (IPN) sowie auch Geschäftsführender Direktor des IPN. Gleichzeitig ist er Professor für Empirische Bildungsforschung an der Christian-Albrechts-Universität zu Kiel</li>
+					<li>Er studierte Psychologie, Philosophie und Anthropologie an der Universität zu Kiel, promovierte 1997 in Kiel und habilitierte 2001 (Dr. phil. habil., Venia legendi für die Psychologie) an der Universität Potsdam. </li>
+					<li>Nach seinem Diplom arbeitete er von 1991 bis 1996 als Doktorand am IPN, er wechselte dann zum Max-Planck-Institut für Bildungsforschung in Berlin, wo er bis 2002 zunächst als wissenschaftlicher Mitarbeiter, später als Forschungsgruppenleiter tätig war. 2002 folgte er einem Ruf auf einen Lehrstuhl für Pädagogische Psychologie an der Universität Erlangen-Nürnberg. 2004 wurde Olaf Köller Gründungsdirektor des Instituts zur Qualitätsentwicklung im Bildungswesen (IQB) und Professor für Empirische Bildungsforschung an der Humboldt-Universität zu Berlin.
+					</li>
+					<li>Forschungsschwerpunkte: Fragen der empirischen Lehr- und Lernforschung mit einem besonderen Schwerpunkt auf dem Aufbau und der Entwicklung domänenspezifischer Kompetenzen im allgemeinbildenden Schulsystem.
+</li>
+				</ul>
+		</td>
+	</tr>
+</table>
+</p>
+
+<p>&nbsp;</p><a name="leutner"></a>
+<p>
+<table>
+	<tr>
+		<td colspan="2" class="bigger">Prof. Dr. Detlev Leutner</td>
+	</tr>
+	<tr>
+		<td class="w40"><img src="../../img/leutner.png" class="w66"/></td>
+		<td>
+			Prof. Dr. Detlev Leutner trägt am Eröffnungstag der Nachwuchstagung ein Statement vor und ist Mitglied der anschließenden Podiumsdiskussion.
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<span class="bigger">Zur Person</span>
+				<ul>
+					<li>Seit 2002 Inhaber des Lehrstuhls für Lehr-Lernpsychologie der Fakultät für Bildungswissenschaften an der Universität Duisburg-Essen</li>
+					<li>Gründungsdirektor des Zentrums für empirische Bildungsforschung (ZeB) der Universität Duisburg-Essen (2008 – 2012)</li>
+					<li>Zuvor Professor für Instruktionspsychologie an der Universität Erfurt und Professor für Psychologische Forschungsmethodik an der Universität Gießen.</li>
+					<li>Mitglied im Senat der Deutschen Forschungsgemeinschaft (DFG)</li>
+					<li>Mitglied im Kuratorium des Instituts zur Qualitätsentwicklung im Bildungswesen (IQB) der Kultusministerkonferenz (KMK)</li>
+					<li>Forschungsschwerpunkte: Lernen mit Multimedia, Selbstreguliertes Lernen, Problemlösen, Kompetenzen von Lehrkräften</li>
+				</ul>
+		</td>
+	</tr>
+</table>
+</p>
+<p>&nbsp;</p><a name="luedtke"></a>
+<p>
+<table>
+	<tr>
+		<td colspan="2" class="bigger">Prof. Dr. Oliver Lüdtke </td>
+	</tr>
+	<tr>
+		<td class="w40"><img src="../../img/luedtke.png" class="w66"/></td>
+		<td>
+Prof. Dr. Oliver Lüdtke leitet auf der Nachwuchstagung den Teil „Publizieren auf Basis empirisch-quantitativer  Forschungsmethoden“ des Publikationsworkshops.
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<span class="bigger">Zur Person</span>
+				<ul>
+					<li>Professor für pädagogisch-psychologische Methodenforschung am Leibniz-Institut für die Pädagogik der Naturwissenschaften und Mathematik (IPN)</li>
+<li>Stiftungsprofessor des Zentrums für Internationale Bildungsvergleichsstudien (ZIB).</li>
+<li>Forschungsschwerpunkte: Evaluation und Weiterentwicklung statistischer Methoden zur Beantwortung pädagogisch-psychologischer Fragestellungen, Untersuchung der Effekte schulischer Kontextfaktoren (z.B. Schulklima, Unterrichtsmerkmale) auf die Persönlichkeits- und Leistungsentwicklung von Schülerinnen und Schülern.
+</li>
+				</ul>
+		</td>
+	</tr>
+</table>
+</p>
+
+<p>&nbsp;</p><a name="martens"></a>
+<p>
+<table>
+	<tr>
+		<td colspan="2" class="bigger">Dr. Matthias Martens</td>
+	</tr>
+	<tr>
+		<td class="w40"><img src="../../img/martens.png" class="w66"/></td>
+		<td>
+Dr. Matthias Martens leitet auf der Nachwuchstagung den Teil „Publizieren auf Basis empirisch-qualitativer Forschungsmethoden“ des Publikationsworkshops.
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<span class="bigger">Zur Person</span>
+				<ul>
+					<li>Seit 2010 wissenschaftlicher Mitarbeiter am Institut für Pädagogik der Sekundarstufe der Goethe-Universität Frankfurt am Main. Im Sommersemester 2014 Vertretung der Professur für Allgemeine Didaktik/Schulpädagogik mit dem Scherpunkt Unterrichtsforschung an der Universität Koblenz-Landau.
+					</li>
+					<li>Studium der Fächer Deutsch und Geschichte für das Lehramt an Gymnasien, Promotion in der Didaktik der Geschichte an der Georg-August-Universität Göttingen. 2007 Forschungsaufenthalt an der School of Education der Stanford University, California, USA.
+					</li>
+					<li>Arbeitsschwerpunkte: Individualisierung und Differenzierung in der Sekundarstufe, qualitative Kompetenzforschung, Historisches Lernen, Dokumentarische Methode, Unterrichtsforschung, Videoanalyse.
+
+</li>
+				</ul>
+		</td>
+	</tr>
+</table>
+</p>
+
+<p>&nbsp;</p><a name="thurn"></a>
+<p>
+<table>
+	<tr>
+		<td colspan="2" class="bigger">Prof. Dr. Susanne Thurn</td>
+	</tr>
+	<tr>
+		<td class="w40"><img src="../../img/thurn.png" class="w66"/></td>
+		<td>
+Prof. Dr. Susanne Thurn leitet auf der Nachwuchstagung den Teil „Potential und die Transfermöglichkeiten von Forschungsergebnissen für unterrichtspraktische Zeitschriften – Bereich Bildungswissenschaften“
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<span class="bigger">Zur Person</span>
+				<ul>
+					<li>Prof. Dr. Susanne Thurn, geb. 1947, ist derzeit Honorarprofessorin der Universität Halle-Wittenberg; zuvor Lehrerin, Hochschullehrerin und Schulleiterin der Laborschule Bielefeld (bis Sommer 2013). Darüber hinaus übernimmt sie Vortragstätigkeiten, Lehraufträge, Gastprofessuren und Fortbildungsveranstaltungen in Deutschland, Österreich und der Schweiz</li>
+					<li>Mitherausgeberin verschiedener Zeitschriften („Geschichte lernen“, „Metis“, „PÄD Forum“), seit 2013 Redaktionsmitglied der Zeitschrift „PÄDAGOGIK“, zahlreiche Veröffentlichungen im Bereich Schulpädagogik, Fachdidaktik Geschichte und Englisch</li>
+
+				</ul>
+		</td>
+	</tr>
+</table>
+</p>
+
+
+<p>&nbsp;</p><a name="uenlue"></a>
+<p>
+<table>
+	<tr>
+		<td colspan="2" class="bigger">Prof. Dr. Ali Ünlü </td>
+	</tr>
+	<tr>
+		<td class="w40"><img src="../../img/uenlue.png" class="w66"/></td>
+		<td>
+Prof. Dr. Ali Ünlü leitet auf der Nachwuchstagung den Methodenworkshop „Einführung in die Latent-Class-Analysis“.
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<span class="bigger">Zur Person</span>
+				<ul>
+					<li>Inhaber des Stiftungslehrstuhls des BMBF und der KMK für Methoden der Empirischen Bildungsforschung im Zentrum für internationale Bildungsvergleichsstudien (ZIB) und in der TUM School of Education an der TU München. </li>
+<li>Zuvor Professor für Statistische Methoden in den Sozial- und Bildungswissenschaften der TU Dortmund sowie Akademischer Rat am Lehrstuhl für Rechnerorientierte Statistik und Datenanalyse an der Universität Augsburg, wo er auch habilitierte</li>
+<li>Studium der Mathematik und Physik an der TU Darmstadt und Promotion auf dem Gebiet der Psychometrie und mathematischen Psychologie an den beiden Grazer Universitäten in Österreich. </li>
+<li>Forschungsschwerpunkte: mathematische und statistische Methoden auf den Gebieten der Messung, Modellierung, Skalierung und Informationsvisualisierung in den quantitativen Verhaltenswissenschaften, in der empirischen Bildungsforschung und im Large Scale Assessment. Sein besonderes Interesse gilt verallgemeinerten Latente-Variablen-Modellen und ihren Anwendungen zur Wissens- und Kompetenzerfassung.
+</li>
+				</ul>
+		</td>
+	</tr>
+</table>
+</p>
+
+<p>&nbsp;</p><a name="wilde"></a>
+<p>
+<table>
+	<tr>
+		<td colspan="2" class="bigger">Prof. Dr. Matthias Wilde </td>
+	</tr>
+	<tr>
+		<td class="w40"><img src="../../img/wilde.png" class="w66"/></td>
+		<td>
+Prof. Dr. Matthias Wilde leitet auf der Nachwuchstagung den Teil „Potential und Transfermöglichkeiten von Forschungsergebnissen für unterrichtspraktische Zeitschriften“ (Bereich MINT)
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<span class="bigger">Zur Person</span>
+				<ul>
+					<li>
+					Prof. Dr. Matthias Wilde, geb. 1968, leitet seit 2005 die Abteilung Biologiedidaktik (Humanbiologie / Zoologie) an der Universität Bielefeld.</li>
+					<li>
+					Er studierte Biologie und Chemie für Gymnasiales Lehramt und arbeitete fünf Jahre als Gymnasiallehrer, bevor er an die Universität zurückkehrte. 2004 promovierte er an der Universität Bayreuth, später folgte dort eine Assistententätigkeit. 2005 übernahm er eine Gastprofessur an der Humboldt-Universität zu Berlin.
+					</li>
+					<li>Arbeitsschwerpunkte: Motivation und selbstbestimmtes Biologielernen sowie Authentizität im Biologieunterricht.
+</li>
+				</ul>
+		</td>
+	</tr>
+</table>
+</p>
+
+</div>
+
+
+</div>
+		</div>
+		<?php include("../../footer.php") ?>
