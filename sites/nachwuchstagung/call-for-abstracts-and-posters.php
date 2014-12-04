@@ -10,7 +10,9 @@ Alle Teilnehmerinnen und Teilnehmer der Nachwuchstagung sind aufgefordert, mit i
 Alle Teilnehmerinnen und Teilnehmer der Nachwuchstagung sind darüber hinaus eingeladen, einen eigenen <strong>Posterbeitrag</strong> zu leisten. Bitte reichen Sie dafür Ihren Beitrag bis zum 30.01.2015 unter „Poster (Nachwuchstagung)“ <a href="https://www.conftool.com/gebf2015/" target="_blank">hier</a>  ein.
 </p>
 <p>
-Die Poster werden am 09.03.2015 im Format DIN A 0 (Hochformat) ausgedruckt mitgebracht. Jedes Poster wird durch einen höchstens dreiminütigen Vortrag vorgestellt werden. Im Anschluss stehen sich die Posterautorinnen und -autoren gegenseitig für Nachfragen zur Verfügung. Während der Poster-Session findet ein Begutachungsverfahren statt. Die Verleihung eines Poster-Awards durch die RUB Research School beschließt die Nachwuchstagung.
+Die Poster werden am 09.03.2015 im Format DIN A 0 (Hochformat) ausgedruckt mitgebracht. Jedes Poster wird durch einen höchstens dreiminütigen Vortrag vorgestellt werden. Im Anschluss stehen sich die Posterautorinnen und -autoren gegenseitig für Nachfragen zur Verfügung. Während der Poster-Session findet ein Begutachungsverfahren statt. Die Verleihung eines Poster-Awards durch die <a href="http://www.research-school.rub.de" target="_blank">RUB Research School</a> beschließt die Nachwuchstagung. Wir danken der RUB Research School ganz herzlich für die Stiftung der Preisgelder.
+<img src="http://www.research-school.rub.de/fileadmin/graphics/Logo/logo%202012/Logo-RURS-rgb.png" class="shadow center w50"/>
+
 </p>
 </div>
 				</div>
