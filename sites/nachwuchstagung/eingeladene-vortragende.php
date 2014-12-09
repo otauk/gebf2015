@@ -186,6 +186,32 @@ Prof. Dr. Oliver Lüdtke leitet auf der Nachwuchstagung den Teil „Publizieren auf
 </table>
 </p>
 
+<p>&nbsp;</p><a name="marohn"></a>
+<p>
+<table>
+	<tr>
+		<td colspan="2" class="bigger">Prof. Dr. Anette Marohn</td>
+	</tr>
+	<tr>
+		<td class="w40"><img src="../../img/marohn.png" class="w66"/></td>
+		<td>
+Prof. Dr. Annette Marohn hält auf der Nachwuchstagung den Vortrag „Zur Verbindung von Empirie und Unterrichtspraxis – Beispiele aus der naturwissenschaftsdidaktischen Forschung“
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<span class="bigger">Zur Person</span>
+				<ul>
+					<li>Seit 2013 Inhaberin des Lehrstuhls für Didaktik der Chemie an der Westfälischen Wilhelms-Universität Münster. Nach dem Studium der Fächer Chemie, Mathematik und Musik Promotion im Bereich der Chemiedidaktik an der Technischen Universität Dortmund. Nach dem 2. Staatsexamen mehrjährige Tätigkeit als Lehrerin an einem nordrhein-westfälischen Gymnasium. Anschließend Juniorprofessorin für Chemiedi-daktik an der Leibniz-Universität Hannover sowie Professorin an der Universität zu Köln.
+					</li>
+					<li>Ein Forschungsschwerpunkt liegt auf der Entwicklung und Evaluation von Unter-richtskonzepten auf der Basis empirischer Daten. Thematische Schwerpunkte bilden die Bereiche Schülervorstellungen, Naturwissenschaftliche Erkenntnisgewinnung, Forschendes Lernen und Argumentation.
+					</li>
+				</ul>
+		</td>
+	</tr>
+</table>
+</p>
+
 <p>&nbsp;</p><a name="martens"></a>
 <p>
 <table>
