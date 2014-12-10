@@ -340,5 +340,4 @@ Prof. Dr. Matthias Wilde leitet auf der Nachwuchstagung den Teil „Potential und 
 </p>
 </div>
 </div>
-		</div>
 		<?php include("../../footer.php") ?>

@@ -106,5 +106,4 @@ Ausgehend von Erfahrungen, die in dem dreijährigen Forschungsprojekt "Bildungsme
 </p></div>
 				</div>
 </div>
-		</div>
 <?php include("../../footer.php") ?>

@@ -1,5 +1,5 @@
 <?php $thisPage="nwt_allgemein";?>
-<?php include("../../header.php") ?>			
+<?php include("../../header.php") ?>
 			<div class="content">
 				<div class="text">
 <h1>Allgemeine Informationen</h1>
@@ -7,7 +7,7 @@
 Im Vorfeld der GEBF-Tagung 2015 findet an der Ruhr-Universität Bochum eine zweitägige Nachwuchstagung für Doktorandinnen und Doktoranden sowie Postdoktorandinnen und Postdoktoranden aus den Fachdidaktiken und Bildungswissenschaften statt. Die Nachwuchstagung steht unter dem Titel:
 </p>
 <p>
-<span class="center"><strong>„Zwischen empirischen Daten und unterrichtspraktischer Relevanz – 
+<span class="center"><strong>„Zwischen empirischen Daten und unterrichtspraktischer Relevanz –
 Publizieren in den Fachdidaktiken und Bildungswissenschaften.“</strong></span>
 </p>
 <p>
@@ -32,8 +32,7 @@ Wir freuen uns auf eine spannende Nachwuchstagung, einen regen fachlichen Austau
 Das Organisationsteam,
 Katrin Sommer, Christiane Mattiesson und Julia Lorke
 </p>
-</div> 
+</div>
 				</div>
 </div>
-		</div>
-<?php include("../../footer.php") ?>			
+<?php include("../../footer.php") ?>

@@ -17,5 +17,4 @@ Die Poster werden am 09.03.2015 im Format DIN A 0 (Hochformat) ausgedruckt mitge
 </div>
 				</div>
 </div>
-		</div>
 <?php include("../../footer.php") ?>
