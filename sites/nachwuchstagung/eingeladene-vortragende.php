@@ -26,7 +26,6 @@ Prof. Dr. Maria Eisenmann leitet auf der Nachwuchstagung den Teil „Potential und
 	</tr>
 </table>
 </p>
-
 <p>&nbsp;</p><a name="fey"></a>
 <p>
 <table>
@@ -73,7 +72,6 @@ Prof. Dr. Maria Eisenmann leitet auf der Nachwuchstagung den Teil „Potential und
 					</li>
 					<li>Arbeitsschwerpunkte: Lehrerbildung, Schul- und Unterrichtsforschung, pädagogisch-didaktische Interventionsforschung und empirisch-qualitative Forschungsmethoden sowie Mixed Methods.
 					</li>
-
 				</ul>
 		</td>
 	</tr>
@@ -132,7 +130,6 @@ Prof. Dr. Frank Goldhammer leitet auf der Nachwuchstagung den Methodenworkshop „
 	</tr>
 </table>
 </p>
-
 <p>&nbsp;</p><a name="leutner"></a>
 <p>
 <table>
@@ -185,7 +182,6 @@ Prof. Dr. Oliver Lüdtke leitet auf der Nachwuchstagung den Teil „Publizieren auf
 	</tr>
 </table>
 </p>
-
 <p>&nbsp;</p><a name="marohn"></a>
 <p>
 <table>
@@ -211,7 +207,6 @@ Prof. Dr. Annette Marohn hält auf der Nachwuchstagung den Vortrag „Zur Verbindun
 	</tr>
 </table>
 </p>
-
 <p>&nbsp;</p><a name="martens"></a>
 <p>
 <table>
@@ -233,14 +228,39 @@ Dr. Matthias Martens leitet auf der Nachwuchstagung den Teil „Publizieren auf Ba
 					<li>Studium der Fächer Deutsch und Geschichte für das Lehramt an Gymnasien, Promotion in der Didaktik der Geschichte an der Georg-August-Universität Göttingen. 2007 Forschungsaufenthalt an der School of Education der Stanford University, California, USA.
 					</li>
 					<li>Arbeitsschwerpunkte: Individualisierung und Differenzierung in der Sekundarstufe, qualitative Kompetenzforschung, Historisches Lernen, Dokumentarische Methode, Unterrichtsforschung, Videoanalyse.
-
 </li>
 				</ul>
 		</td>
 	</tr>
 </table>
 </p>
-
+<a name="rumann"></a>
+<p>
+<table>
+	<tr>
+		<td colspan="2" class="bigger">Prof. Dr. Stefan Rumann</td>
+	</tr>
+	<tr>
+		<td class="w40"><img src="../../img/rumann.png" class="w66"/></td>
+		<td>
+Prof. Dr. Stefan Rumann leitet auf der Nachwuchstagung den Teil „Publizieren auf Basis empirisch-quantitativer Forschungsmethoden“ des Publikationsworkshops.
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<span class="bigger">Zur Person</span>
+				<ul>
+					<li>Seit 2008 Professor für Fachdidaktik der Chemie an der Universität Duisburg-Essen und Leiter des Instituts für Didaktik des Sachunterrichts (ISU).
+					</li>
+					<li>Zuvor Studium der Fächer Chemie und Biologie an Universität Essen. Nach erstem und zweitem Staatsexamen Lehrertätigkeit an einem Düsseldorfer Gymnasium und anschließend wissenschaftlicher Mitarbeiter am Institut für Didaktik der Chemie der Universität Essen. 2006 bis 2008 stellvertretender Direktor der Abteilung Didaktik der Chemie am Leibniz-Institut für Pädagogik der Naturwissenschaften (IPN) in Kiel.
+					</li>
+					<li>Arbeitsschwerpunkt ist die empirische Lehr-Lernforschung im Chemieunterricht, mit besonderer Berücksichtigung des fachspezifischen Problemlösens, der Planung und Reflexion von Chemieunterricht, der Grundlagen der Chemie für Studierende des Lehramts Primarstufe, sowie der Methoden im Sachunterricht.
+					</li>
+				</ul>
+		</td>
+	</tr>
+</table>
+</p>
 <p>&nbsp;</p><a name="thurn"></a>
 <p>
 <table>
@@ -259,14 +279,11 @@ Prof. Dr. Susanne Thurn leitet auf der Nachwuchstagung den Teil „Potential und d
 				<ul>
 					<li>Prof. Dr. Susanne Thurn, geb. 1947, ist derzeit Honorarprofessorin der Universität Halle-Wittenberg; zuvor Lehrerin, Hochschullehrerin und Schulleiterin der Laborschule Bielefeld (bis Sommer 2013). Darüber hinaus übernimmt sie Vortragstätigkeiten, Lehraufträge, Gastprofessuren und Fortbildungsveranstaltungen in Deutschland, Österreich und der Schweiz</li>
 					<li>Mitherausgeberin verschiedener Zeitschriften („Geschichte lernen“, „Metis“, „PÄD Forum“), seit 2013 Redaktionsmitglied der Zeitschrift „PÄDAGOGIK“, zahlreiche Veröffentlichungen im Bereich Schulpädagogik, Fachdidaktik Geschichte und Englisch</li>
-
 				</ul>
 		</td>
 	</tr>
 </table>
 </p>
-
-
 <p>&nbsp;</p><a name="uenlue"></a>
 <p>
 <table>
@@ -293,7 +310,6 @@ Prof. Dr. Ali Ünlü leitet auf der Nachwuchstagung den Methodenworkshop „Einführu
 	</tr>
 </table>
 </p>
-
 <p>&nbsp;</p><a name="wilde"></a>
 <p>
 <table>
@@ -322,10 +338,7 @@ Prof. Dr. Matthias Wilde leitet auf der Nachwuchstagung den Teil „Potential und 
 	</tr>
 </table>
 </p>
-
 </div>
-
-
 </div>
 		</div>
 		<?php include("../../footer.php") ?>
