@@ -3,7 +3,7 @@
 			<div class="content">
 				<div class="text">
 <h1>Veranstaltungsprogramm</h1><h2>Montag, 09. März 2015</h2>
-<p>Die Nachwuchstagung startet am Montag um 12:00 Uhr mit einer Begrüßung der Tagungsleiterin Prof. Dr. Katrin Sommer. Hieran schließt sich der Eröffnungsvortrag von <a href="../wissenschaftliches-programm/eingeladene-vortragende.php#koeller">Prof. Dr. Olaf Köller</a> zum Thema der Nachwuchstagung an. Ergänzt durch drei weitere Statements aus der Wissenschaft und Schulpraxis wird damit das heterogene Feld „Zwischen empirischen Daten und unterrichts-praktischer Relevanz“ aufgespannt. Bei der anschließenden Podiumsdiskussion erhalten die Referentinnen und Referenten sowie Tagungsteilnehmerinnen und -teilnehmer die Gelegenheit, die erörterten Punkte gemeinsam weiter zu reflektieren.
+<p>Die Nachwuchstagung startet am Montag um 12:00 Uhr mit einer Begrüßung der Tagungsleiterin Prof. Dr. Katrin Sommer. Hieran schließt sich der Eröffnungsvortrag von <a href="../nachwuchstagung/eingeladene-vortragende.php#koeller">Prof. Dr. Olaf Köller</a> "Empirische Bildungsforschung und Schule heute?" zum Thema der Nachwuchstagung an. Ergänzt durch drei weitere Statements aus der Wissenschaft und Schulpraxis (<a href="../nachwuchstagung/eingeladene-vortragende.php#leutner">Prof. Dr. Detlev Leutner</a>, <a href="../nachwuchstagung/eingeladene-vortragende.php#marohn">Prof. Dr. Annette Marohn</a>, <a href="../nachwuchstagung/eingeladene-vortragende.php#wambach-laicher">Dr. Wambach-Laicher</a>) wird damit das heterogene Feld „Zwischen empirischen Daten und unterrichtspraktischer Relevanz“ aufgespannt. Bei der anschließenden Podiumsdiskussion erhalten die Referentinnen und Referenten sowie Tagungsteilnehmerinnen und -teilnehmer die Gelegenheit, die erörterten Punkte gemeinsam weiter zu reflektieren.
 </p>
 <p>
 Weiter geht es mit der Poster-Ausstellung, bei der die Dissertationsprojekte der Teilnehmerinnen und Teilnehmer im Mittelpunkt stehen.  Die Nachwuchswissenschaftlerinnen und -wissenschaftler stellen ihre eigenen Forschungsprojekte gegenseitig vor und tauschen sich darüber aus. Wenn Sie Ihr Dissertationsprojekt mit einem Poster vorstellen möchten, reichen Sie Ihren Posterbeitrag bitte bitte bis 30.01.2015 unter „Poster (Nachwuchstagung) <a href="https://www.conftool.com/gebf2015/" target="_blank">hier</a> ein (siehe auch <a href="call-for-abstracts-and-posters.php">„Call for Abstracts and Posters"</a>).
@@ -21,7 +21,7 @@ Der Publikationsworkshop besteht aus zwei Teilen. Dabei werden zwei unterschiedl
 <h1>Publikationsworkshop</h1>
 <h2>Teil 1 „Informationen und Kriterien zur adäquaten Gestaltung von Methoden- und Ergebnisteilen in wissenschaftlichen Publikationen“</h2>
 <p>
-Die Teilnehmerinnen und Teilnehmer können hier wählen, ob sie an der wissenschaftlichen Publikation empirisch-quantitativer ODER empirisch-qualitativer Methoden und Ergebnisse arbeiten möchten. Bitte geben Sie dafür bei der <a href="https://www.conftool.com/gebf2015/" target="_blank">Anmeldung zur Nachwuchstagung</a> an, ob Sie den Teil 1 als „Publizieren auf Basis empirisch-qualitativer Forschungsmethoden“ (geleitet durch <a href="../wissenschaftliches-programm/eingeladene-vortragende.php#glaeser">Prof. Dr. Michaela Gläser-Zikuda</a>, Universität Erlangen-Nürnberg) ODER als „Publizieren auf Basis empirisch-quantitativer  Forschungsmethoden“ (geleitet durch <a href="../wissenschaftliches-programm/eingeladene-vortragende.php#luedtke">Prof. Dr. Oliver Lüdtke</a>, Institut für die Pädagogik der Naturwissenschaften, Kiel) besuchen möchten.
+Die Teilnehmerinnen und Teilnehmer können hier wählen, ob sie an der wissenschaftlichen Publikation empirisch-quantitativer ODER empirisch-qualitativer Methoden und Ergebnisse arbeiten möchten. Bitte geben Sie dafür bei der <a href="https://www.conftool.com/gebf2015/" target="_blank">Anmeldung zur Nachwuchstagung</a> an, ob Sie den Teil 1 als „Publizieren auf Basis empirisch-qualitativer Forschungsmethoden“ (geleitet durch <a href="../nachwuchstagung/eingeladene-vortragende.php#glaeser">Prof. Dr. Michaela Gläser-Zikuda</a> und <a href="../nachwuchstagung/eingeladene-vortragende.php#martens">Dr. Matthias Martens</a>) ODER als „Publizieren auf Basis empirisch-quantitativer Forschungsmethoden“ (geleitet durch <a href="../nachwuchstagung/eingeladene-vortragende.php#luedtke">Prof. Dr. Oliver Lüdtke</a>, <a href="../nachwuchstagung/eingeladene-vortragende.php#neumann">Prof. Dr. Knut Neumann</a> und <a href="../nachwuchstagung/eingeladene-vortragende.php#rumann">Prof. Dr. Stefan Rumann</a>) besuchen möchten.
 </p>
 <p>
 Publizieren auf Basis empirisch-qualitativer Forschungsmethoden: Der Workshop widmet sich der Frage, welche Aspekte und Kriterien insbesondere für das Publizieren empirisch qualitativer Studien bedacht werden sollten. Zunächst werden grundlegende Fragen der Güte qualitativer Sozialforschung erläutert und darauf aufbauend anhand von Beispielstudien aus der empirisch qualitativen Bildungsforschung Grundprinzipien für die Gestaltung eines Theorie- und Ergebnisteils für eine Publikation (mit peer-Review-Verfahren) diskutiert.
@@ -55,7 +55,7 @@ In diesem Teil werden die Teilnehmerinnen und Teilnehmer in Fächergruppen (MINT,
 </div>
 <h3>Methodenworkshop „Einführung in das Statistikprogrammpaket R“</h3>
 <p>
-Dieser Workshop richtet sich an Nachwuchswissenschaftlerinnen und –wissenschaftler, die am Beginn ihres Promotionsprojektes stehen. Er vermittelt eine Einführung in das Statistikprogrammpaket R anhand einfacher statistischer Analyseverfahren. Geleitet wird der Workshop durch <a href="../wissenschaftliches-programm/eingeladene-vortragende.php#goldhammer">Prof. Dr. Frank Goldhammer</a> Deutsches Institut für Internationale Pädagogische Forschung, Frankfurt.
+Dieser Workshop richtet sich an Nachwuchswissenschaftlerinnen und –wissenschaftler, die am Beginn ihres Promotionsprojektes stehen. Er vermittelt eine Einführung in das Statistikprogrammpaket R anhand einfacher statistischer Analyseverfahren. Geleitet wird der Workshop durch <a href="../nachwuchstagung/eingeladene-vortragende.php#goldhammer">Prof. Dr. Frank Goldhammer</a> Deutsches Institut für Internationale Pädagogische Forschung, Frankfurt.
 <br/><a class="readmore2"></a>
 </p>
 <div class="expander2">
@@ -73,7 +73,7 @@ Der Workshop richtet sich an alle, die R kennenlernen wollen. R-Vorkenntnisse si
 </div>
 
 <h3>Methodenworkshop „Einführung in die Latent Class Analysis“</h3>
-Dieser Workshop richtet sich an methodisch fortgeschrittene Promovierende und führt in die Latent Class Analysis ein. Geleitet wird der Workshop von <a href="../wissenschaftliches-programm/eingeladene-vortragende.php#uenlue">Prof. Dr. Ali Ünlü</a>, Technische Universität München.
+Dieser Workshop richtet sich an methodisch fortgeschrittene Promovierende und führt in die Latent Class Analysis ein. Geleitet wird der Workshop von <a href="../nachwuchstagung/eingeladene-vortragende.php#uenlue">Prof. Dr. Ali Ünlü</a>, Technische Universität München.
 <br/><a class="readmore3"></a>
 </p>
 <div class="expander3">

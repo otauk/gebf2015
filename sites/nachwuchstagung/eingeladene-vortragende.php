@@ -186,7 +186,7 @@ Prof. Dr. Oliver Lüdtke leitet auf der Nachwuchstagung den Teil „Publizieren auf
 <p>
 <table>
 	<tr>
-		<td colspan="2" class="bigger">Prof. Dr. Anette Marohn</td>
+		<td colspan="2" class="bigger">Prof. Dr. Annette Marohn</td>
 	</tr>
 	<tr>
 		<td class="w40"><img src="../../img/marohn.png" class="w66"/></td>
