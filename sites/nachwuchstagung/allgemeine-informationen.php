@@ -26,6 +26,12 @@ Am 2. Tagungstag geht es mithilfe von Workshops in die Tiefe. Im Zentrum steht d
 Parallel zum Publikationsworkshop werden am 2. Tagungstag zwei „klassische“ <strong>Methodenworkshops</strong> angeboten. Der erste Workshop richtet sich an Nachwuchswissenschaftlerinnen und –wissenschaftler, die am Beginn ihres Promotionsprojektes stehen. Er vermittelt eine <strong>Einführung in das Statistikprogramm R</strong> anhand einfacher statistischer Analyseverfahren. Der zweite Workshop führt in die <strong>Latent Class Analysis</strong> ein. Er richtet sich an methodisch fortgeschrittene Promovierende.
 </p>
 <p>
+Die Nachwuchstagung wird von der Stiftung Mercator gefördert, wir danken der Stiftung für die großzügige Unterstützung.
+</p>
+<p>
+<img src="../../img/Stiftung_Mercator_Blau_RGB.jpg" class="shadow w100 center" />
+</p>
+<p>
 Wir freuen uns auf eine spannende Nachwuchstagung, einen regen fachlichen Austausch sowie vielfältige Möglichkeiten zur Vernetzung und laden alle interessierten Doktorandinnen und Doktoranden herzlich nach Bochum ein!
 </p>
 <p>
