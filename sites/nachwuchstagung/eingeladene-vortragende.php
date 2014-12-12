@@ -234,6 +234,33 @@ Dr. Matthias Martens leitet auf der Nachwuchstagung den Teil „Publizieren auf Ba
 	</tr>
 </table>
 </p>
+<p>&nbsp;</p><a name="neumann"></a>
+<p>
+<table>
+	<tr>
+		<td colspan="2" class="bigger">Prof. Dr. Knut Neumann</td>
+	</tr>
+	<tr>
+		<td class="w40"><img src="../../img/neumann.png" class="w66"/></td>
+		<td>
+Prof. Dr. Knut Neumann leitet auf der Nachwuchstagung den Teil „Publizieren auf Basis empirisch-quantitativer Forschungsmethoden“ des Publikationsworkshops.
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<span class="bigger">Zur Person</span>
+				<ul>
+					<li>Seit 2013 Leiter der Abteilung für Didaktik der Physik am Leibniz-Institut für die Pädagogik der Naturwissenschaften und Mathematik (IPN) an der Universität Kiel
+					</li>
+					<li>Zuvor Studium der Mathematik und Physik für das Lehramt an Gymnasien an der Heinrich-Heine-Universität Düsseldorf. Nach dem ersten Staatsexamen folgten Promotion in Didaktik der Physik an der Pädagogischen Hochschule Heidelberg, Tätigkeiten als wissenschaftlicher Mitarbeiter an der Heinrich-Heine-Universität Düsseldorf und in der Forschergruppe "Naturwissenschaftlicher Unterricht" an der Universität Duisburg-Essen. 2008 bis 2009 Geschäftsführer des Zentrums für empirische Bildungsforschung (ZeB) an der Universität Duisburg-Essen, seit 2009 Professor für Didaktik der Physik an der Christian-Albrechts-Universität zu Kiel
+					</li>
+					<li>Arbeits- und Forschungsschwerpunkte: Kompetenzdiagnose und –entwicklung
+					</li>
+				</ul>
+		</td>
+	</tr>
+</table>
+</p>
 <a name="rumann"></a>
 <p>
 <table>
