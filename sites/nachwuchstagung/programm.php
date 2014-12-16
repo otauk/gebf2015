@@ -2,7 +2,11 @@
 <?php include("../../header.php") ?>
 			<div class="content">
 				<div class="text">
-<h1>Veranstaltungsprogramm</h1><h2>Montag, 09. März 2015</h2>
+<h1>Veranstaltungsprogramm</h1>
+<p>
+	<a href="../../Endversion von NT GEBF 2015 Flyer.pdf" target="_blank" class="form_btn">Programm als PDF</a>
+</p>
+<h2>Montag, 09. März 2015</h2>
 <p>Die Nachwuchstagung startet am Montag um 12:00 Uhr mit einer Begrüßung der Tagungsleiterin Prof. Dr. Katrin Sommer. Hieran schließt sich der Eröffnungsvortrag von <a href="../nachwuchstagung/eingeladene-vortragende.php#koeller">Prof. Dr. Olaf Köller</a> "Empirische Bildungsforschung und Schule heute?" zum Thema der Nachwuchstagung an. Ergänzt durch drei weitere Statements aus der Wissenschaft und Schulpraxis (<a href="../nachwuchstagung/eingeladene-vortragende.php#leutner">Prof. Dr. Detlev Leutner</a>, <a href="../nachwuchstagung/eingeladene-vortragende.php#marohn">Prof. Dr. Annette Marohn</a>, <a href="../nachwuchstagung/eingeladene-vortragende.php#wambach-laicher">Dr. Wambach-Laicher</a>) wird damit das heterogene Feld „Zwischen empirischen Daten und unterrichtspraktischer Relevanz“ aufgespannt. Bei der anschließenden Podiumsdiskussion erhalten die Referentinnen und Referenten sowie Tagungsteilnehmerinnen und -teilnehmer die Gelegenheit, die erörterten Punkte gemeinsam weiter zu reflektieren.
 </p>
 <p>
