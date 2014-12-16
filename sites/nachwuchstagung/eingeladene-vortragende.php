@@ -338,14 +338,14 @@ Prof. Dr. Ali Ünlü leitet auf der Nachwuchstagung den Methodenworkshop „Einführu
 </table>
 </p>
 
-<p>&nbsp;</p><a name="wilde"></a>
+<p>&nbsp;</p><a name="wambach-laicher"></a>
 <p>
 <table>
 	<tr>
 		<td colspan="2" class="bigger">Dr. Judith Wambach-Laicher</td>
 	</tr>
 	<tr>
-		<td class="w40"><img src="../../img/wilde.png" class="w66"/></td>
+		<td class="w40"><img src="../../img/wambach-laicher.png" class="w66"/></td>
 		<td>
 Dr. Judith Wambach-Laicher leitet auf der Nachwuchstagung den Teil „Potential und Transfermöglichkeiten von Forschungsergebnissen für unterrichtspraktische Publikationen – Bereich MINT“
 		</td>
