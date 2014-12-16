@@ -29,7 +29,7 @@ Parallel zum Publikationsworkshop werden am 2. Tagungstag zwei „klassische“ <str
 Die Nachwuchstagung wird von der Stiftung Mercator gefördert, wir danken der Stiftung für die großzügige Unterstützung.
 </p>
 <p>
-<img src="../../img/Stiftung_Mercator_Blau_RGB.jpg" class="shadow w100 center" />
+<img src="../../img/Stiftung_Mercator_Blau_RGB.jpg" class="shadow w50 center" />
 </p>
 <p>
 Wir freuen uns auf eine spannende Nachwuchstagung, einen regen fachlichen Austausch sowie vielfältige Möglichkeiten zur Vernetzung und laden alle interessierten Doktorandinnen und Doktoranden herzlich nach Bochum ein!

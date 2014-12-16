@@ -337,6 +337,36 @@ Prof. Dr. Ali Ünlü leitet auf der Nachwuchstagung den Methodenworkshop „Einführu
 	</tr>
 </table>
 </p>
+
+<p>&nbsp;</p><a name="wilde"></a>
+<p>
+<table>
+	<tr>
+		<td colspan="2" class="bigger">Dr. Judith Wambach-Laicher</td>
+	</tr>
+	<tr>
+		<td class="w40"><img src="../../img/wilde.png" class="w66"/></td>
+		<td>
+Dr. Judith Wambach-Laicher leitet auf der Nachwuchstagung den Teil „Potential und Transfermöglichkeiten von Forschungsergebnissen für unterrichtspraktische Publikationen – Bereich MINT“
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<span class="bigger">Zur Person</span>
+				<ul>
+					<li>
+					Dr. Judith Wambach-Laicher, Studiendirektorin, Dipl. Chem., Dipl. Math., Specialist in Gifted Education, Studium an den Universitäten in Düsseldorf und Hagen, Zusatzausbildung an den Universitäten Nijmegen und Münster, 2. Staatsprüfung Sek. II u. Sek. I in den Fächern Chemie und Mathematik.
+					</li>
+					<li>
+					Fachleiterin für Chemie am Seminar GyGe am ZfsL Leverkusen, Chemielehrerin am Lise-Meitner-Gymnasium Leverkusen, Fachberaterin für Chemie und Begabtenförderung Bezirksregierung Köln.
+					</li>
+					<li>Mitherausgeberin und Autorin der Reihe „Individualisieren und Aktivieren im Chemieunterricht S II“ im Aulis-Verlag, Mitherausgeberin der Praxis der Naturwissenschaften, Chemie in der Schule im Aulis-Verlag (2008 – 2013), Autorin in der Schulbuchreihe Chemie 2000+ für die Sek. I und Sek. II im Buchner-Verlag, Autorin in der Reihe Materialien-Handbuch Chemie im Aulis-Verlag.
+					</li>
+				</ul>
+		</td>
+	</tr>
+</table>
+</p>
 <p>&nbsp;</p><a name="wilde"></a>
 <p>
 <table>
