@@ -25,6 +25,7 @@ elseif ( $thisPage=="veranstaltungsformen" ) { $current = 'veranstaltungsformen'
 elseif ( $thisPage=="workshops" ) { $current = 'workshops' AND $subnavi='wp_content'; }
 elseif ( $thisPage=="eingeladene-vortragende" ) { $current = 'eingeladene-vortragende' AND $subnavi='wp_content' ; }
 elseif ( $thisPage=="posterpreis" ) { $current = 'posterpreis' AND $subnavi='wp_content'; }
+elseif ( $thisPage=="mittagsvorlesungen" ) { $current = 'mittagsvorlesungen' AND $subnavi='wp_content'; }
 
 /* Nachwuchstagung */
 elseif ( $thisPage=="nwt_allgemein" ) { $current = 'nwt_allgemein' AND $subnavi = 'nwt_content'; }
@@ -84,6 +85,11 @@ else {$current = 'none';}
 				<a href="<?= $base;?>sites/wissenschaftliches-programm/veranstaltungsformen.php">
 					<li class="veranstaltungsformen">
 						&nbsp;Veranstaltungsformen
+					</li>
+				</a>
+				<a href="<?= $base;?>sites/wissenschaftliches-programm/mittagsvorlesungen.php">
+					<li clasS="mittagsvorlesungen">
+						&nbsp;Mittagsvorlesungen
 					</li>
 				</a>
 				<a href="<?= $base;?>sites/wissenschaftliches-programm/workshops.php">
