@@ -1,8 +1,11 @@
 <?php $thisPage = "aktuelles"; ?>
-<?php include("header.php") ?>			
+<?php include("header.php") ?>
 			<div class="content">
 				<div class="text">
 					<h1>Aktuelles</h1>
+<div class="newsdate">09.01.2015</div>
+Das Review-Verfahren ist abgeschlossen und die Rückmeldung zu den Beiträgen wurde versandt. Wir freuen uns auf zahlreiche Besucher sowie anregende Beiträge und Diskussionen im März.
+
 <div class="newsdate">29.10.2014</div>
 Die Beitragseinreichung wurde beendet.
 
@@ -23,15 +26,15 @@ Die Professional School of Education der Ruhr-Universität Bochum freut sich, Sie
 Die Tagung steht unter dem Motto „Heterogenität.Wert.Schätzen“. Unter diesem Motto bietet die Tagung ein Forum für alle Wissenschaftlerinnen und Wissenschaftler, die in den unterschiedlichsten Disziplinen  mit empirischen Methoden Fragen der Bildungsforschung bearbeiten. Wir freuen uns, wenn durch die Vorstellung der wissenschaftlichen Ergebnisse Themen der Bildungsforschung aus verschiedenen disziplinären Perspektiven beleuchtet werden und aus dem Zusammenführen der verschiedenen Blickwinkel ein umfassenderes Bild zu Fragen der Bildung entsteht.
 </p>
 <p>
-Wir hoffen, dass wir mit dem wissenschaftlichen Programm der Tagung Ihre Forschungsinteressen treffen und den Austausch von Wissenschaftlerinnen und Wissenschaftlern aus verschiedenen Disziplinen zu Themen, Methoden und Ergebnissen der Empirischen Bildungsforschung fördern können. 
+Wir hoffen, dass wir mit dem wissenschaftlichen Programm der Tagung Ihre Forschungsinteressen treffen und den Austausch von Wissenschaftlerinnen und Wissenschaftlern aus verschiedenen Disziplinen zu Themen, Methoden und Ergebnissen der Empirischen Bildungsforschung fördern können.
 </p>
 <p>
 Wir freuen uns auf Sie bei der 3. GEBF-Tagung in Bochum.
 </p>
 <p>
-Joachim Wirth & Peter Drewek	
+Joachim Wirth & Peter Drewek
 </p>
 				</div>
 </div>
 		</div>
-<?php include("footer.php") ?>			
+<?php include("footer.php") ?>

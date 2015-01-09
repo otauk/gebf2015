@@ -13,7 +13,7 @@
 	<tr>
 		<td class="w40"><img src="../../img/Becker.jpg" class="w66"/></td>
 		<td>
-
+Herr Becker hält eine der Mittagsvorlesungen.
 		</td>
 	</tr>
 	<tr>
@@ -41,7 +41,7 @@ Forschungsgebiete: Bildungssoziologie, Sozialstrukturanalyse, Lebensverlaufsfors
 	<tr>
 		<td class="w40"><img src="../../img/MaagMerki.jpg" class="w66"/></td>
 		<td>
-
+Frau Maag Merki hält eine der Mittagsvorlesungen.
 		</td>
 	</tr>
 	<tr>
@@ -71,7 +71,7 @@ Katharina Maag Merki, ordentliche Professorin für Pädagogik mit dem Schwerpunkt 
 	<tr>
 		<td class="w40"><img src="../../img/Sumfleth.JPG" class="w66"/></td>
 		<td>
-
+Frau Sumfleth hält eine der Mittagsvorlesungen.
 		</td>
 	</tr>
 	<tr>
