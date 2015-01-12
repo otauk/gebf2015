@@ -26,7 +26,7 @@
 
 					<p><hr /></p>
 
-					<p>Chancengerechtigkeit</p>
+					<p>Heterogenität als Problem oder als Potenzial?</p>
 					<p>
 						<a class="readmore2"></a>
 					</p>
