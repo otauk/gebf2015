@@ -30,6 +30,35 @@ Herr Becker hält eine der Mittagsvorlesungen zum Thema <a href="mittagsvorlesung
 </table>
 </p>
 
+<a name="lipp"></a>
+<p>
+<table>
+	<tr>
+		<td colspan="2" class="bigger">Robert Lipp</td>
+	</tr>
+	<tr>
+		<td class="w40"><img src="../../img/lipp.jpg" class="w66"/></td>
+		<td>
+Herr Lipp leitet den Workshop "Einführung in die Arbeit mit den Daten des Nationalen Bildungspanel (NEPS)" im Rahmen der Haupttagung.
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<span class="bigger">Zur Person</span>
+				<ul>
+					<li>Diplom-Abschluss in Soziologie mit Schwerpunkt „Empirische Sozialforschung“ an der Otto-Friedrich Universität Bamberg
+					</li>
+					<li>Diplomarbeit zum Thema „Cosmopolitan Relationships in CouchSurfing – An explorative analysis of a Web 2.0 platform“
+					</li>
+					<li>Seit 2014 wissenschaftlicher Mitarbeiter im Forschungsdatenzentrum des Leibniz-Institut für Bildungsverläufe (LIfBi) in den Bereichen Datenedition und Kodierung					</li>
+				</ul>
+		</td>
+	</tr>
+</table>
+</p>
+
+
+
 <a name="maagmerki"></a>
 <p>
 <table>

@@ -3,6 +3,34 @@
 			<div class="content">
 				<div class="text">
 <h1>Eingeladene Vortragende</h1>
+<a name="bernhardt"></a>
+<p>
+<table>
+	<tr>
+		<td colspan="2" class="bigger">Prof. Dr. Markus Bernhardt</td>
+	</tr>
+	<tr>
+		<td class="w40"><img src="../../img/bernhardt.png" class="w66"/></td>
+		<td>
+Prof. Dr. Markus Bernhardt leitet auf der Nachwuchstagung den Teil „Potential und Transfermöglichkeiten von Forschungsergebnissen für unterrichtspraktische Zeitschriften – Bereich Geistes- und Gesellschaftswissenschaften“
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<span class="bigger">Zur Person</span>
+				<ul>
+					<li>Seit 2011 Professor für Didaktik der Geschichte an der Universität Duisburg-Essen. Zuvor 1980-1985 Lehramtsstudium für die Fächer Geschichte und Latein an der Universität Gießen, 1989 Promotion an der Universität Gießen sowie 2007 Habilitation an der Universität Kassel (Venia legendi in Neuerer Geschichte und Geschichtsdidaktik).
+					</li>
+					<li>1987-1990 Wissenschaftlicher Mitarbeiter am Historischen Institut der Universität Gießen, 1990-1995 Studienrat an der Wilhelm-Bracke-Gesamtschule Braunschweig, 1995-2002 Studienrat am Gymnasium im Schloss Wolfenbüttel, 2002-2008 Wissenschaftlicher Assistent an der Universität Kassel. 2007 Vertretung der Professur für Geschichtsdidaktik an der Universität Frankfurt, 2008-2011 Professor für Geschichte und ihre Didaktik an der PH Freiburg.
+					<li>Mitherausgeber der unterrichtspraktischen Zeitschrift „Geschichte lernen“, Mitglied im Wissenschaftlichen Beirat und Peer-Gutachter der „Zeitschrift für Didaktik der Gesellschaftswissenschaften (ZDG)“, Core Author im Blog Journal „Public History Weekly (PHW).“
+</li>
+				</ul>
+		</td>
+	</tr>
+</table>
+</p>
+
+
 <a name="eisenmann"></a>
 <p>
 <table>
