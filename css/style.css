@@ -443,6 +443,12 @@ table tr {
 	border-bottom:1px solid rgb(104,103,103);
 	}
 
+table th {
+	font-weight: normal;
+	font-size:115%;
+	border-bottom: 1px solid rgb(141,174,16);
+}
+
 table td {
 	padding:0.5em 1em 0.5em 0;
 	}

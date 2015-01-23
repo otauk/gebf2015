@@ -21,6 +21,7 @@ if 	   ( $thisPage=="aktuelles") { $current = 'aktuelles' ;}
 elseif ( $thisPage=="cfp" ) { $current = 'cfp' ; }
 
 /* Wissenschaftliches Programm */
+elseif ( $thisPage=="tagungsprogramm" ) { $current = 'tagungsprogramm'  AND $subnavi='wp_content'; }
 elseif ( $thisPage=="veranstaltungsformen" ) { $current = 'veranstaltungsformen'  AND $subnavi='wp_content'; }
 elseif ( $thisPage=="workshops" ) { $current = 'workshops' AND $subnavi='wp_content'; }
 elseif ( $thisPage=="eingeladene-vortragende" ) { $current = 'eingeladene-vortragende' AND $subnavi='wp_content' ; }
@@ -82,6 +83,11 @@ else {$current = 'none';}
 		<i class="fa fa-fw fa-tasks"></i>&nbsp;Wissenschaftliches Programm
 			<span class="more"></span>
 			<ul class="wp_content">
+				<a href="<?= $base;?>sites/wissenschaftliches-programm/tagungsprogramm.php">
+					<li class="tagungsprogramm">
+						&nbsp;Tagungsprogramm
+					</li>
+				</a>
 				<a href="<?= $base;?>sites/wissenschaftliches-programm/veranstaltungsformen.php">
 					<li class="veranstaltungsformen">
 						&nbsp;Veranstaltungsformen

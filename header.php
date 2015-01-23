@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <!-- ~~~~~~~~~~~~~~~~~~~~| ROOT DIR |~~~~~~~~~~~~~~~~~~~~ -->
-<?php 
-$base = "http://www.gebf2015.de/"; 
+<?php
+$base = "http://www.gebf2015.de/";
 ?>
 <html>
 	<head>
@@ -25,14 +25,14 @@ $base = "http://www.gebf2015.de/";
 		<script type="text/javascript" src="<?php echo $base;?>include/collapse.js"></script>
 		<script type="text/javascript" src="<?php echo $base;?>include/collapse_options.js"></script>
 	</head>
-	
-	
+
+
 	<body>
 	<div class="wrapper">
 		<div class="header">
 			<div class="header-top">
 				<div class="header-top-left"></div>
-				
+
 				<div class="header-top-right"></div>
 				<div class="header-top-right2"></div>
 			</div>
